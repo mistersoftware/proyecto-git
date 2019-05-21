@@ -29,3 +29,8 @@ body{
     font-size: 0.8em;
     paddgin: 1em 0 0 0;
 }
+#footer{
+    padding: 0.5em;
+    background-color: aqua;
+    font-size: 20px;
+}
