@@ -5,3 +5,5 @@ nueva linea añadida para probar un nuevo commit
 un nuevo parrafo, para seguir aprendiendo
 
 mas parrafo despues de probar con vim añadir el texto del commit
+
+aprendamos mas de vim
