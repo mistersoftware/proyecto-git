@@ -1,2 +1,3 @@
 esta es la historia de como 
-aprendi git
+aprendi git 
+nueva linea añadida para probar un nuevo commit
